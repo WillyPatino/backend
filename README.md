@@ -6,16 +6,16 @@
 
 Hola! 👋🏻 las ramas están organizadas por semana, es decir **CADA RAMA SERA UNA SEMANA**
 
-SEMANA 01 : https://github.com/cesarmayta/CODIGO-2021-G11/tree/semana01</br>
-SEMANA 02 : https://github.com/cesarmayta/CODIGO-2021-G11/tree/semana02</br>
-SEMANA 03 : https://github.com/cesarmayta/CODIGO-2021-G11/tree/semana03</br>
-SEMANA 04 : https://github.com/cesarmayta/CODIGO-2021-G11/tree/semana04</br>
-SEMANA 05 : https://github.com/cesarmayta/CODIGO-2021-G11/tree/semana05</br>
-SEMANA 06 : https://github.com/cesarmayta/CODIGO-2021-G11/tree/semana06</br>
-SEMANA 07 : https://github.com/cesarmayta/CODIGO-2021-G11/tree/semana07</br>
-SEMANA 08 : https://github.com/cesarmayta/CODIGO-2021-G11/tree/semana08</br>
-SEMANA 09 : https://github.com/cesarmayta/CODIGO-2021-G11/tree/semana09</br>
-SEMANA 10 : https://github.com/cesarmayta/CODIGO-2021-G11/tree/semana10</br>
+SEMANA 01 : https://github.com/cesarmayta/CODIGO-G13/tree/semana01</br>
+SEMANA 02 : https://github.com/cesarmayta/CODIGO-G13/tree/semana02</br>
+SEMANA 03 : https://github.com/cesarmayta/CODIGO-G13/tree/semana03</br>
+SEMANA 04 : https://github.com/cesarmayta/CODIGO-G13/tree/semana04</br>
+SEMANA 05 : https://github.com/cesarmayta/CODIGO-G13/tree/semana05</br>
+SEMANA 06 : https://github.com/cesarmayta/CODIGO-G13/tree/semana06</br>
+SEMANA 07 : https://github.com/cesarmayta/CODIGO-G13/tree/semana07</br>
+SEMANA 08 : https://github.com/cesarmayta/CODIGO-G13/tree/semana08</br>
+SEMANA 09 : https://github.com/cesarmayta/CODIGO-G13/tree/semana09</br>
+SEMANA 10 : https://github.com/cesarmayta/CODIGO-G13/tree/semana10</br>
 
 
 # Instrucciones
